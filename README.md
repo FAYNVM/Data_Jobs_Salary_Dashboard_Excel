@@ -20,3 +20,6 @@ Skills used:
 - Excel
 - Formulas
 - Data Validation
+
+---
+![image info](images/Dashboard_screenshot.png)

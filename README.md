@@ -20,7 +20,8 @@ Skills used:
 - Excel
 - Formulas
 - Data Validation
-
+- Pivot Tables
+  
 ---
 A few examples:
 

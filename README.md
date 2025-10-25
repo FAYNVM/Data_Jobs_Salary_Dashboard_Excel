@@ -1,4 +1,4 @@
-***Data jobs and their salaries on one interactive Excel Dashboard***
+<img width="1798" height="706" alt="image" src="https://github.com/user-attachments/assets/81425f83-ddc7-4d9e-86ee-19a3e4a0c8e2" />***Data jobs and their salaries on one interactive Excel Dashboard***
 -
 This project was created following Luke Barousse's YouTube tutorial on Excel for Beginners.
 Link to the tutorial: *https://www.youtube.com/watch?v=pCJ15nGFgVg&t=37642s* 
@@ -22,4 +22,12 @@ Skills used:
 - Data Validation
 
 ---
+A few examples:
+
+*Looking for a Full-time Data Analyst job in Poland*
+
 ![image info](images/Dashboard_screenshot.png)
+
+*Looking for a Part-time Business Analyst job in United States*
+
+![image info](images/Dashboard_screenshot1.png)

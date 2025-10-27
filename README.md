@@ -1,3 +1,5 @@
+***ENGLISH***
+
 ***Data jobs and their salaries on one interactive Excel Dashboard***
 -
 This project was created following Luke Barousse's YouTube tutorial on Excel for Beginners.
@@ -18,7 +20,7 @@ Each category affects the values and the graphs representing the data.
 
 Skills used:
 - Excel
-- Formulas
+- Formulas & functions
 - Data Validation
 - Pivot Tables
   
@@ -32,3 +34,42 @@ A few examples:
 *Looking for a Part-time Business Analyst job in United States*
 
 ![image info](images/Dashboard_screenshot1.png)
+
+
+***POLISH***
+
+***Dane dotyczące pracy i wynagrodzeń w pracach związanych z Data na interaktywnej tablicy stworzonej w programie Excel***
+-
+Projekt ten został stworzony na bazie poradnika dla początkujących w programie Excel autorstwa Luke Barrousse'a.
+Odnośnik do poradnika: *https://www.youtube.com/watch?v=pCJ15nGFgVg&t=37642s* 
+
+Podszedłem do tego samouczka mając w głowie jeden cel - skuteczną naukę programu Excel poprzez działanie na bazach danych starając odtworzyć warunki panujące w prawdziwej pracy. 
+
+W tej interaktywnej tablicy każdy może sprawdzić płace dla konkretnej pracy związanej z Data Science. Poza wynagrodzeniem, pokazane są także najpopularniejsze strony z ofertami jak i liczba ofert zawartych na danej stronie.
+
+---
+
+Oferty pracy mogą być filtrowane przez następujące warunki: 
+- Państwo
+- Praca
+- Etat
+
+Każdy z tych warunków wpływa na tą interaktywną tablicę w czasie rzeczywistym ukazując dokładne dane w postaci wykresów.  
+
+Umiejętności wykorzystane w tym projekcie:
+- Excel
+- Formuły i funkcje 
+- Walidacja danych
+- Tabele przestawne
+  
+---
+A o to kilka przykładów:
+
+*Poszukiwanie pracy jako Analityk Danych na pełen etat w Polsce*
+
+![image info](images/Dashboard_screenshot.png)
+
+*Poszukiwanie pracy jako Analityk Biznesowy na pół etatu w Stanach Zjednoczonych Ameryki*
+
+![image info](images/Dashboard_screenshot1.png)
+
